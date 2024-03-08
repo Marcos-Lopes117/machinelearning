@@ -1,6 +1,6 @@
-# Desafio: Criar um passo a passo do desafio "Trabalhando com Machine Learning na Prática no Azure ML", da plataforma DIO
+# Desafio de Projeto DIO: Trabalhando com Machine Learning na Prática no Azure ML.
 
-Passo a passo original: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
+📕DOC: https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html
 
 # - 1° Passo: Crie um espaço de trabalho do Azure Machine Learning
 
